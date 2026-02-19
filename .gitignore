@@ -1,16 +1,8 @@
-# env
-.env
-.env.*
-*.env
-
 # python
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-.venv/
-venv/
-env/
 
 # logs
 *.log
